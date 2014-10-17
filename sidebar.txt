@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzc:home|Door43 (kzc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzc|d43-kzc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzc/archive/master.zip|d43-kzc.zip]]
+
+**Recent Changes**
+{{changes>ns = kzc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzc|Ethnologue data]]
+
